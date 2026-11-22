@@ -75,7 +75,8 @@ Python, Google Colab, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, statsmod
 - Calcular **taxas de vacinação** por faixa etária, usando a população de cada idade.
 - Testar **modelos não lineares** (polinomial ou logarítmico) e a regressão por faixa etária.
 - Cruzar as datas de pico com o calendário oficial da campanha.
-  
+
+## Links Roteiro e Slides
 Roteiro de Extensäo - [Roteiro_Extensao_Lucas (1).docx](https://github.com/user-attachments/files/35245021/Roteiro_Extensao_Lucas.1.docx)
 
 Slides de apresentação - [Apresentacao_Influenza_SaoGoncalo_25-26 (1).pptx](https://github.com/user-attachments/files/35245034/Apresentacao_Influenza_SaoGoncalo_25-26.1.pptx)
